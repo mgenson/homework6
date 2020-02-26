@@ -1,5 +1,5 @@
 .play{
-  background-image: url("../images/play.png");
+  background: url("../images/play.png");
   background-repeat: no-repeat;
   cursor: pointer;
   height: 17px;
@@ -11,7 +11,7 @@
 }
 
 .pause{
-  background-image: url("../images/pause.png");
+  background: url("../images/pause.png");
   background-repeat: no-repeat;
   cursor: pointer;
   height: 17px;
