@@ -1,3 +1,22 @@
 .play{
-  background: url(images/play.png) no-repeat;
+  background-image: url("../images/play.png");
+  background-repeat: no-repeat;
+  cursor: pointer;
+  height: 17px;
+  text-indent: 10px;
+  text-align: center;
+  background-size: contain;
+  display: inline-block;
+  border-radius: 3px;
+}
+
+.pause{
+  background-image: url("../images/pause.png");
+  background-repeat: no-repeat;
+  cursor: pointer;
+  height: 17px;
+  text-indent: 10px;
+  text-align: center;
+  background-size: contain;
+  border-radius: 3px;
 }
